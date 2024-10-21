@@ -6,7 +6,7 @@
 
 body {
     background: url();
-    font-family: ;
+    font-family: Bai Janjuree;
 }
 
 #container {
@@ -110,5 +110,6 @@ footer p{
     font-size: 3vw;
 }
 
-.cartao__conteudo ; 
-} 
+.cartao__conteudo p{
+    font-size: 3.8vw;
+}
